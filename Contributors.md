@@ -1,7 +1,6 @@
 ﻿# Contributors
 
 <!-- prettier-ignore-start -->
-- [Utkarsh@DevsocPI](https://github.com/0xAnon0602)
 - [Pawan Yadav](https://github.com/pawanyy)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
@@ -11,7 +10,7 @@
 - [Pradeep Kurapati] (https://github.com/Pradeep-Kurapati)
 - [Aibek Z] (https://github.com/aibekz)
 - [Faisal Saifi](https://github.com/faisalsaifii)
-- [Vishal Kanwar](https://github.com/Kanvi1)
+- [Om Patil@devsocPI]
 - [Alvin James Bellero](https://github.com/shiftEscape)
 - [Hidayatullah](https://github.com/dayatnhbtc)
 - [Adlizone](https://github.com/adlizone)
@@ -67,7 +66,7 @@
 - [Bogdan Otava](https://github.com/BogdanOtava)
 - [something-ai-hash](https://github.com/something-ai-hash)
 - [John Harold Sipat]
-- [Nathan FAbio](https://github.com/nathanfabio)
+- 
 - [Vibhav Joshi](https://github.com/DATTU005)
 - [Jayanth](https://github.com/iamjayanthr)
 - [Mohamed Djebloun](https://github.com/mohameddjebloun)
@@ -199,7 +198,6 @@
 - [Bruno De Paula 🚀](https://github.com/Gr33nLight)
 - [Sudarsan Balaji](https://github.com/artfuldev)
 - [jatin kumar](https://github.com/jatin75757)
-- [Barnamoy Roy](https://github.com/Ed-Monkey)
 - [ahmad nawaz khan](https://github.com/4hmaad)
 - [Ishita Batra](https://github.com/ishita6)
 - [Devanshu Mahapatra](https://github.com/Devanshu-17)
@@ -418,7 +416,6 @@
 - [Yatndeep Dubey](https://github.com/Yatndeep)
 - [Autumn Ouellette](https://github.com/Autumn-Ou)
 - [Fatin Almalik](https://github.com/Fatin-Almalik)
-- [Ayananshu Mohanty]@DevsocPI
 - [Mohammad Mubaslat](https://github.com/mohammadmubaslat)
 - [Arnaduga](https://github.com/arnaduga)
 - [PatentLobster](https://github.com/PatentLobster)
